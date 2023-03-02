@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benjamin Rousseau</h1>
-<h3 align="center">A passionate full-stack analyst developper student</h3>
+<h3 align="center">A full-stack analyst developper student</h3>
+<h3 align="center">Most of the public repositories on my profile are school projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaminrousseau37416&label=Profile%20views&color=0e75b6&style=flat" alt="benjaminrousseau37416" /> </p>
 
