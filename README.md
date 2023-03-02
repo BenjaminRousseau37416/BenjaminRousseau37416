@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaminrousseau37416&label=Profile%20views&color=0e75b6&style=flat" alt="benjaminrousseau37416" /> </p>
 
-- 🌱 I’m currently learning **Angular**
-
 - 📫 How to reach me **etu37417@henallux.be**
 
 <h3 align="left">Connect with me:</h3>
